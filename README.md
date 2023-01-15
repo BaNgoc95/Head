@@ -1,3 +1,4 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
 <HTML>
 
@@ -419,7 +420,7 @@ var ParticlePool = (function() {
 
     // create the fill
 
-    context.fillStyle = '#ea80b0';
+    context.fillStyle = '#ff0000';
 
     context.fill();
 
@@ -514,6 +515,18 @@ var ParticlePool = (function() {
 })(document.getElementById('pinkboard'));
 
   </script>
+<div class="center-text",
+  style="background-color:rgb(0, 0, 0);
+        width: 100%;
+        color: rgb(225, 12, 168);
+        height:100%;
+        font-size: 31px;
+        font-style: italic;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 5px;
+        text-align: center;">Mãi Yêu Bé</div>
 
  </BODY>
 
