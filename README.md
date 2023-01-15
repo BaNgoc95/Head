@@ -515,7 +515,6 @@ var ParticlePool = (function() {
 })(document.getElementById('pinkboard'));
 
   </script>
-<marquee direction="right">Hoc HTML tai VietJack - Vi du cach su dung the marquee (direction="right")</marquee>
 
  </BODY>
 
